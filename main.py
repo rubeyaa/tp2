@@ -1,6 +1,6 @@
 #créé par Adam Rubeya
 #créé en 2023
-#Afficher le nombre de charactère dans une phrase
+#Afficher le nombre de mots dans une phrase
 
 
 def count_word(charactere):
